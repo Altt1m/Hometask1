@@ -90,7 +90,7 @@ public class Program
                 Console.WriteLine($"{firstNum}+{secondNum}={firstNum+secondNum}"); // Сума
                 Console.WriteLine($"{firstNum}-{secondNum}={firstNum-secondNum}"); // Різниця
                 Console.WriteLine($"{firstNum}*{secondNum}={firstNum*secondNum}"); // Добуток
-                Console.WriteLine($"{firstNum}/{secondNum}={firstNum/secondNum}"); // Частка
+                Console.WriteLine($"{firstNum}/{secondNum}={firstNum/secondNum}\n"); // Частка
             }
 
             else if (taskNum == 9)
